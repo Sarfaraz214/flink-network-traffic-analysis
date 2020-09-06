@@ -1,4 +1,4 @@
-# network_traffic_analysis
+# flink-network-traffic-analysis
 
 - A Flink application project using Scala and SBT for Network Traffic Analysis.
 
